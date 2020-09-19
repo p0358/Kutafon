@@ -1,0 +1,9 @@
+Package: net.p0358.kutafon
+Name: Kutafon
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Zamień Dyktafon w Kutafon
+Maintainer: p0358
+Author: p0358
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
