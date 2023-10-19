@@ -1,3 +1,5 @@
+#include <UIKit/UIKit.h>
+
 @interface SBApplicationIcon {
 
 	NSString* _displayIdentifier;
